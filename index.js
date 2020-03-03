@@ -1,2 +1,3 @@
 // require('./variables');
-require('./arithmeticandlogic');
+// require('./arithmeticandlogic');
+require('./conditionals');
